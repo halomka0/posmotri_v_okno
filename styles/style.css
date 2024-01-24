@@ -13,16 +13,10 @@ html {
   block-size: 100%;
   margin: auto;
   color: #fff;
-<<<<<<< HEAD
   font-family: "Fira Sans Condensed", sans-serif;
   font-size: 18px;
   background-color: #1b1919;
   padding: 133px 30px;
-=======
-  font-family: 'Fira Sans Condensed', sans-serif;
-  font-size: 18px;
-  background-color: #1b1919;
->>>>>>> e97e561af689f821b4fbe458bf2446087e4c69a3
 }
 
 h1,
@@ -43,7 +37,6 @@ ul,
 ol {
   list-style: none;
 }
-<<<<<<< HEAD
 
 .content {
   display: flex;
@@ -293,5 +286,3 @@ input[type="checkbox"]:checked + .search-form__pseudo-checkbox {
   outline: 6px solid white;
   outline-offset: -30px;
 }
-=======
->>>>>>> e97e561af689f821b4fbe458bf2446087e4c69a3
